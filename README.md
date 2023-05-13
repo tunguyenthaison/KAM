@@ -1,4 +1,4 @@
-# KAM
+# KAM & Weak KAM theory
 Repo for stuff related to KAM and Weak KAM theory
 
 
